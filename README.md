@@ -1,1 +1,1 @@
-Here all of the basics of google chrome extension.
+Here all about the basics of google chrome extension.
