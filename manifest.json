@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "My Extension",
+  "version": "1.0.0",
+  "description": "This is my Extension",
+  "author": "sujon686500@gmail.com",
+  "icons": {
+    "32": "./images/icon32.png"
+  },
+  "action": {
+    "default_icon": {
+      "32": "images/icon32.png"
+    },
+    "default_title": "Hello! Please Click Me",
+    "default_popup": "./popup/popup.html"
+  }
+}
